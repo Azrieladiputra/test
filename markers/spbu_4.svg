@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="128" height="128">
+  <!-- Pompa bensin -->
+  <symbol id="icon-pombensin" viewBox="0 0 64 64">
+    <!-- Badan pompa -->
+    <rect x="14" y="8" width="24" height="40" rx="2" ry="2" fill="#FF4B40" stroke="#000" stroke-width="2"/>
+    
+    <!-- Layar display -->
+    <rect x="20" y="14" width="12" height="8" rx="1" ry="1" fill="#B7D4D6" stroke="#000" stroke-width="1.5"/>
+    
+    <!-- Alas -->
+    <rect x="10" y="48" width="32" height="4" fill="none" stroke="#000" stroke-width="2"/>
+    
+    <!-- Selang -->
+    <path d="M38 12 L46 22 L46 40 Q46 46 40 46" 
+          fill="none" stroke="#000" stroke-width="2"/>
+  </symbol>
+
+  <!-- Contoh penggunaan simbol -->
+  <use href="#icon-pombensin" x="0" y="0"/>
+</svg>
